@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itakiaxe.github.io/DUW/sitemap_index.txt
+Sitemap: https://itakiaxe.github.io/Fnh/sitemap_index.txt
+Sitemap: https://itakiaxe.github.io/pZw/sitemap_index.txt
+Sitemap: https://itakiaxe.github.io/rsl/sitemap_index.txt
